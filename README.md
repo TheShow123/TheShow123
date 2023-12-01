@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheShow123
-- 👀 I’m interested in FNAF
-- 🌱 I’m currently learning A#
+- 👀 I’m interested in Nothing
+- 🌱 I’m currently learning Nothing
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me 
+- 📫 How to reach me: Don't
 
 <!---
 TheShow123/TheShow123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
